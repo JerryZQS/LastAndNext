@@ -1,0 +1,74 @@
+PODS:
+  - Differentiator (5.0.0)
+  - GRDB.swift (5.8.0):
+    - GRDB.swift/standard (= 5.8.0)
+  - GRDB.swift/standard (5.8.0)
+  - "NSObject+Rx (5.2.1)":
+    - RxSwift (~> 6.0)
+  - R.swift (5.4.0):
+    - R.swift.Library (~> 5.3.0)
+  - R.swift.Library (5.3.0)
+  - RxCocoa (6.2.0):
+    - RxRelay (= 6.2.0)
+    - RxSwift (= 6.2.0)
+  - RxDataSources (5.0.0):
+    - Differentiator (~> 5.0)
+    - RxCocoa (~> 6.0)
+    - RxSwift (~> 6.0)
+  - RxGRDB (2.0.0):
+    - RxGRDB/default (= 2.0.0)
+    - RxSwift (~> 6.0)
+  - RxGRDB/default (2.0.0):
+    - GRDB.swift (~> 5.0)
+    - RxSwift (~> 6.0)
+  - RxRelay (6.2.0):
+    - RxSwift (= 6.2.0)
+  - RxSwift (6.2.0)
+  - RxSwiftExt (6.0.1):
+    - RxSwiftExt/Core (= 6.0.1)
+    - RxSwiftExt/RxCocoa (= 6.0.1)
+  - RxSwiftExt/Core (6.0.1):
+    - RxSwift (~> 6.0)
+  - RxSwiftExt/RxCocoa (6.0.1):
+    - RxCocoa (~> 6.0)
+    - RxSwiftExt/Core
+
+DEPENDENCIES:
+  - "NSObject+Rx (~> 5.2.1)"
+  - R.swift (~> 5.4.0)
+  - RxCocoa (= 6.2.0)
+  - RxDataSources (= 5.0.0)
+  - RxGRDB (~> 2.0.0)
+  - RxSwift (= 6.2.0)
+  - RxSwiftExt (= 6.0.1)
+
+SPEC REPOS:
+  trunk:
+    - Differentiator
+    - GRDB.swift
+    - "NSObject+Rx"
+    - R.swift
+    - R.swift.Library
+    - RxCocoa
+    - RxDataSources
+    - RxGRDB
+    - RxRelay
+    - RxSwift
+    - RxSwiftExt
+
+SPEC CHECKSUMS:
+  Differentiator: e8497ceab83c1b10ca233716d547b9af21b9344d
+  GRDB.swift: 9b9beec114435e1d852ad68c136cff4c71134627
+  "NSObject+Rx": 49ffbf55ad0bbc29a44547db63a9e33caf0c5d60
+  R.swift: c533450b0f7dc494e0993f5f1a1db925d84c3006
+  R.swift.Library: 0fc583cb55a99e28901299cc451614cad1161962
+  RxCocoa: 4baf94bb35f2c0ab31bc0cb9f1900155f646ba42
+  RxDataSources: aa47cc1ed6c500fa0dfecac5c979b723542d79cf
+  RxGRDB: 2ed9c18392c87b34d7a085d03831b4081d30e64e
+  RxRelay: e72dbfd157807478401ef1982e1c61c945c94b2f
+  RxSwift: d356ab7bee873611322f134c5f9ef379fa183d8f
+  RxSwiftExt: d61c4b9b06e0a448041b1c659e0f1b5c5a035afc
+
+PODFILE CHECKSUM: a251157413d4f5973e2f37ec2ec57b1c6a0d9673
+
+COCOAPODS: 1.10.1
